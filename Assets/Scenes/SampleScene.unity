@@ -355,6 +355,8 @@ MonoBehaviour:
   xMax: 20
   zMax: 20
   pieza: {fileID: 2662028507166769887, guid: 26a4ae15f34ea7d4498224e1f1d9dbfb, type: 3}
+  piezaLaberinto: {fileID: 2662028507166769887, guid: 03f4932733f9c584eacd54b2fd39087f, type: 3}
+  limit: 10000
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
